@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aadil. I love solving problems, learning new things (maths and technology), and making cool shit!!!
-- 👀 I’m interested in web development.
+- 👀 I’m interested in react/react-native/blockchain/DSA/Math.
 - 🌱 I’m currently doing problems on leetcode.
-- 💞️ I’m looking to collaborate on an awesome web project (financial incentives would be nice)
+- 💞️ I’m looking to collaborate on some awesome projects (financial incentives would be nice)
 - 📫 How to reach me, email at -> adilkelawala@gmail.com
 
 <!---
